@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":2,"title":"","author":"Ishita Gupta","fileName":"ishita_cv.pdf","bounds":[[909,1286],[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
